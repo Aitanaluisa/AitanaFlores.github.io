@@ -9,7 +9,10 @@
     <h1>Aitana Flores</h1>
         <h2>Majoring in Computer Science</h2>
     </header>
-</div>   
+<!DOCTYPE html>
+<hmtl>
+<head>
+  <style>
     .box {
         width: 100px;
         height: 100px;
@@ -23,6 +26,8 @@
 </body>
   <div class="box">This is a box.
   </div>
+</body>
+</html>
     </div>
     <p> My main goal for this course is to help me learn more about computer science and to see if this is going to be a good career path for me. I had been struggling with continuing my journey with nursing school and starting over with IT classes. Ultimately, I decided to start over and change my major to computer science. I think that changing career paths is going to allow me to have more time with my family and be able to find a job that I can work remotely.
     </p>
