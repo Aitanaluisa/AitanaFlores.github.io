@@ -9,7 +9,8 @@
     <h1>Aitana Flores</h1>
         <h2>Majoring in Computer Science</h2>
     </header>
-       .box {
+</div>   
+    .box {
         width: 100px;
         height: 100px;
         background-color: pink;
