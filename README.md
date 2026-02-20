@@ -23,18 +23,19 @@
     <p>
         <a href="https://github.com/Aitanaluisa">github.com/Aitanaluisa</a>
     </p>
-</body>
-</html>
-        body {
-    background-color: #c5bead;
+/* Target the body tag to change the background */
+body {
+    background-color: #b16666;
     font-family: Arial, sans-serif;
 }
+/* Target the h1 tag to style the name */
 h1 {
-    color: #3b5370;
+    color: #2c3e50;
     text-align: center;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #3b5370;
 }
+/* Target paragraphs for readable spacing */
 p {
     line-height: 1.6;
-    color: #3b5370;
+    color: #594a3d;
 }
