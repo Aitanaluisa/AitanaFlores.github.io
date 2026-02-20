@@ -28,7 +28,6 @@ body {
     background-color: #b16666;
     font-family: Arial, sans-serif;
 }
-    
 /* Target the h1 tag to style the name */
 h1 {
     color: #2c3e50;
