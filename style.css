@@ -1,13 +1,65 @@
+/* Color Palette:
+blue: #3b5370
+brown: #594a3d
+tan: #c5bead
+pink: #b16666
+   
+*/
+
+/* Heading Colors */
+    h1 {
+    color: #c5bead;
+    }
+
+        h2 {
+        color: #594a3d;
+        }
+
+             h3 {
+            color: #594a3d; 
+            }
+
 body {
-    background-color: #c5bead;
-    font-family: Arial, sans-serif;
+    background-color: #3b5370;
+    color: #b16666;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+    background-color: #3b5370;
+    padding: 20px;
+}
+div {
+    width: 300px;
+    height: 100px;
+    background-color: #3b5370;
+    border: 2px solid #3b5370;
+    padding: 20px;
+    margin: 30px;
+}
+/*Assignment 02*/
+
+body {
+    background-color: #3b5370;
+}
+
+main {
+    margin: 30px;
+}
+
 h1 {
-    color: #3b5370;
-    text-align: center;
-    border-bottom: 2px solid #3498db;
+    color: #594a3d;
+    font-family: Georgia, 'Times New Roman';
 }
+
 p {
-    line-height: 1.6;
-    color: #3b5370;
+    color: #594a3d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+header {
+    background-color: #3b5370;
+    padding: 20px;
+}
+
+
