@@ -2,4 +2,4 @@ The purpose of this website is show everything that I have learned this semester
 
 
 Live Webiste:
-https://github.com/Aitanaluisa
+https://aitanaluisa.github.io/AitanaFlores.github.io/
